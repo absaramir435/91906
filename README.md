@@ -10,4 +10,5 @@ Despcription: Welcome to the Primary school repository Here youll find a collect
 3. Geometry and Shapes
    • Shape Recognition Game: Javascrpit or Python scripts for a shape recognition game
    • Geomtery Worksheets: PDF files with geometry-related exercise and problems.
+   .
    
