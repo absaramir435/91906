@@ -6,3 +6,8 @@ Despcription: Welcome to the Primary school repository Here youll find a collect
    • Practice worksheets: PDF files with printable addition and subtraction practice sheets
 2. Multiplication and Division
    • Times Tables Practice: Python scripts or notebooks with interactive times tables practice.
+   • Division Exercises: Markdown files with division exercises and solutions.
+3. Geometry and Shapes
+   • Shape Recognition Game: Javascrpit or Python scripts for a shape recognition game
+   • Geomtery Worksheets: PDF files with geometry-related exercise and problems.
+   
